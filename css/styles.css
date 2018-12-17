@@ -13,6 +13,10 @@ h2{
     font-family: monospace;
     font-size: 25px;
   }
+  p{
+      font-family: courier;
+      float: left;
+  }
 
 #equil{
     width:0;
