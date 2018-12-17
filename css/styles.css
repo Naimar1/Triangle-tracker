@@ -7,10 +7,17 @@ h1{
     font-size: 50px;
     font-family: sans-serif;
 }
+
+h2{
+    color: maroon;
+    font-family: monospace;
+    font-size: 25px;
+  }
+
 #equil{
     width:0;
     border-bottom:150px solid grey;
-    border-right: 150px solid transparent;
+    border-right:150px solid transparent;
     border-left: 150px solid transparent;
     
 }
