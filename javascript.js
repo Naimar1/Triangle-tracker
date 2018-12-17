@@ -13,12 +13,10 @@ function getResult(){
    } 
       else if ((sideA + sideB) <= sideC || (sideA + sideC) <= sideB || (sideB + sideC) <= sideA) {
       alert("Not a definite triangle");
-}
-
-
-
-
-
+   }
+      else{
+      alert("This is scalene triangle");
+   }
 
 };
 
