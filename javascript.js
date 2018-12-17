@@ -7,6 +7,7 @@ function getResult(){
    
       if (sideA === sideB && sideB === sideC) {
             alert("This is an equilateral triangle");
+            window.location.href="equilateral.html";
    }
       else if (sideA === sideB || sideA === sideC || sideB === sideC) {
       alert("This is isosceles triangle");
