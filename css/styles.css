@@ -1,3 +1,10 @@
+
+h1{
+    text-align: center;
+    color: darkcyan;
+    font-size: 50px;
+    font-family: sans-serif;
+}
 #equil{
     width:0;
     border-bottom:150px solid grey;
