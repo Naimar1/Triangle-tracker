@@ -45,3 +45,10 @@ h2{
     border-right: 150px solid transparent;
     border-left: 220px solid dashed;
 }
+#notdef{
+    width:0;
+    border-bottom:100px solid maroon;
+    border-right: 100px solid transparent;
+    border-left: 200px solid ;
+    border-bottom-right-radius: 50px,
+}
