@@ -4,7 +4,7 @@
 ## Description
 This is a Triangle Tracker
 ## BDD
-It simply means,you have to enter the lenght of three sides and track whether is an equilateral, once all sides are equal,either isoscele if two of these sides are equal and not triangle if none of the side are equal to one. otherwise it is scalene triangle. you will find in my program , for example if you enter like three equal sides and click to result it will bring an alter message to tell you that ,it is an equilateral triangle, if you enter two equal sides of the three the alert message will tell you  it is an isosceles triangle and so on.
+It simply means,you have to enter the lenght of three sides and check what kind of a triangle you are getting, once all sides are equal, you will find it is an equilateral . But if two of these sides are equal it will be isosceles triangle and if none of the sides are equal it will be not triangle . otherwise it is scalene triangle. you will find in my program , for example if you enter like three equal sides and click to result it will bring an alter message to tell you that ,it is an equilateral triangle, if you enter two equal sides of the three the alert message will tell you  it is an isosceles triangle and so on.
 ## Setup/Installation Requirements
 * link to visit site: https://naimar1.github.io/Triangle-tracker/
 * cd Triangle-tracker
