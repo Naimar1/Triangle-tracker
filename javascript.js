@@ -7,11 +7,11 @@ function getResult(){
    
       if (sideA === sideB && sideB === sideC) {
             alert("This is an equilateral triangle");
-            window.location.href="triangles.html";
+            window.location.href="equilateral.html";
    }
       else if (sideA === sideB || sideA === sideC || sideB === sideC) {
       alert("This is isosceles triangle");
-            window.location.href="triangles.html";
+            window.location.href="isosceles.html";
    } 
       else if ((sideA + sideB) <= sideC || (sideA + sideC) <= sideB || (sideB + sideC) <= sideA) {
       alert("Not a definite triangle");
