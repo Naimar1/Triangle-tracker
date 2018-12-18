@@ -37,7 +37,7 @@ h2{
     width:0;
     border-bottom:100px solid maroon;
     border-right: 100px solid transparent;
-    border-left: 200px solid  dashed;
+    border-left: 200px solid  transparent;
 }
 #scal{
     width:0;
