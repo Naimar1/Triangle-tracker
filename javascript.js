@@ -19,7 +19,7 @@ function getResult(){
    }
       else{
       alert("This is scalene triangle");
-             window.location.href="triangles.html";
+             window.location.href="scalene.html";
    }
 
 };
